@@ -25,8 +25,7 @@
   
  ##
 
-   
-    https://github.com/elizagotardi/elizagotardi/blob/output/github-contribution-grid-snake.svg
+ ![Snake animation](https://github.com/elizagotardi/elizagotardi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
