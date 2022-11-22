@@ -1,6 +1,6 @@
   # Hello World 🌍 
   # I'm Eliza Gotardi, lover technology and coding 💕
-<div align-items="center">
+<div align="center"><br>
   <a href="https://github.com/elizagotardi">
     <img height="180em" 
          src="https://github-readme-stats.vercel.app/api?username=elizagotardi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
